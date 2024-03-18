@@ -18,7 +18,7 @@ To use the Library Management System, you need to have Java installed on your ma
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/akamohid/library-management-system.git
 
 Navigate to the project directory:
 cd library-management-system
