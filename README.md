@@ -92,7 +92,13 @@ This project is ideal for beginners learning:
 ## 📌 Project Info
 
 🔗 GitHub Repository: [github.com/akamohid/LIBRARY-MANAGEMENT-SYSTEM](https://github.com/akamohid/LIBRARY-MANAGEMENT-SYSTEM)  
+
+---
+
+## 📞 Contact
+
 👤 Author: [Mohid Arshad](https://linkedin.com/in/mohid-arshad-347180235/)
 📧 Email: [Mohid Arshad](mailto:akamohid@gmail.com)
 
+--- 
 Enjoy managing your library! 📖✨
