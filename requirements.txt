@@ -1,0 +1,1 @@
+# Java-based project; requirements managed by Maven or IDE.

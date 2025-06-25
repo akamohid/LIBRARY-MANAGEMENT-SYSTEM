@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this Library Management System in your work, please cite it as below."
+authors:
+  - family-names: Arshad
+    given-names: Mohid
+title: "Library Management System in Java"
+version: 1.0.0
+date-released: 2025-06-27
+repository-code: https://github.com/akamohid/LIBRARY-MANAGEMENT-SYSTEM
